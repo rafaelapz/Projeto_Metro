@@ -1,0 +1,31 @@
+feature,importance
+empregos,0.1856820169874418
+Autônomo,0.1368123204183376
+total de empregos de servicos ,0.1229855353163717
+Assalariado sem Carteira,0.11084421251490932
+Profissional Liberal,0.09276044076597721
+Assalariado com Carteira,0.0821045419929896
+Empregador.1,0.0632045911506116
+emprego servicos -  Educação,0.05365040563597712
+emprego Comércio,0.022746423901105203
+Funcionário Público,0.021581525899450206
+motivo e zona de origem -Compras,0.019170275969709934
+motivo e zona de origem -assuntos Pessoais,0.018133725891555454
+motivo e zona de origem -Refeição,0.01644250088902606
+motivo e zona de origem - Lazer,0.013754373527893165
+emprego servicos -  Administração Pública,0.009136290137288793
+motivo e zona de origem - trabalho Comércio,0.005956731543988612
+emprego servicos -  Especializado,0.0056965880904395715
+matriculas em escola privada,0.0055341593451474205
+Renda per capita,0.004886621528336991
+emprego Creditícios Financeiro,0.00471839465209107
+motivo e zona de origem - Saúde,0.001809880288576931
+emprego servicos -  Saúde,0.0014774914361829982
+emprego Construção Civil,0.00029356639525436183
+closeness_centrality,0.0002644375227955783
+emprego servicos -  Alimentação,0.00018246275429945134
+Trabalho Externo(*),7.437680609299439e-05
+eigenvector_centrality,7.066739003529057e-05
+betweenness_centrality,2.5441248114001494e-05
+degree_centrality,0.0
+line_connections,0.0

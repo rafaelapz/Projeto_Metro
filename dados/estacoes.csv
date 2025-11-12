@@ -1,0 +1,321 @@
+codigo_estacao,nome,endereco,latitude,longitude,linhas,linhas_futuras,futura,tipo,conexoes,link,NumeroZona,NomeZona,NumeroMunicipio,NomeMunicipio,NumDistrito_Municipio,NomeDistrito_Municipio,Area_ha_2,População,Empregos,Viagens,Matriculas,distancia_fronteira,distancia_centroide
+1,Estação 14 Bis–Saracura,Rua Dr. Lourenço Granato 45,-23.55666667,-46.64916667,6,,TRUE,metrô,Corredor Santo Amaro-Nove de Julho-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_14_Bis%E2%80%93Saracura,25,Treze de Maio,36,São Paulo,7,Bela Vista,42.85,16746,10432.34188,18490,2126.709409,65.87011292,196.9696647
+2,Estação AACD-Servidor,Rua Pedro de Toledo 1601,-23.59777778,-46.65194444,5,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_AACD-Servidor,63,Jardim Luzitânia,36,São Paulo,53,Moema,103.07,2050,14897.29964,28505,419.1957994,111.2262422,450.5242724
+3,Estação Adolfo Pinheiro,Av. Adolfo Pinheiro 301,-23.6500032,-46.7043554,5,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Adolfo_Pinheiro,303,Santo Amaro,36,São Paulo,72,Santo Amaro,257.11,19007,27868.20952,71442,1940.801752,427.4967443,480.3987278
+5,Estação Alto da Boa Vista,Av. Santo Amaro 6960,-23.64194444,-46.69972222,5,,FALSE,metrô,Corredor Santo Amaro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Alto_da_Boa_Vista,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,35.42803546,1089.597068
+6,Estação Alto do Ipiranga,Av. Dr Gentil de Moura 231,-23.60194444,-46.6125,2,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Alto_do_Ipiranga,238,Alto do Ipiranga,36,São Paulo,33,Ipiranga,160.81,20023,12908.58318,26673,2397.91728,247.4134463,315.3176144
+7,Estação Ana Rosa,Rua Vergueiro 505,-23.58138889,-46.63861111,1;2,,FALSE,metrô,Terminal de Ônibus Urbano e Estacionamento,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Ana_Rosa,56,Rodrigues Alves,36,São Paulo,92,Vila Mariana,103.55,20419,21082.89512,40382,12281.71267,22.08842202,515.8983725
+8,Estação Anália Franco,Avenida Vereador Abel Ferreira x Rua Engenheiro Cestari,-23.56386083,-46.56007778,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_An%C3%A1lia_Franco,210,Jardim Anália Franco,36,São Paulo,87,Vila Formosa,334.04,34111,22276.14772,56995,11009.26768,58.73101968,654.4637647
+9,Estação Anhangabaú,Rua Formosa s/nº,-23.54777778,-46.63916667,3,19,FALSE,metrô,Terminal Bandeira,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Anhangaba%C3%BA,5,República,36,São Paulo,67,República,74.95,15099,82670.40498,101015,4107.699002,35.15808076,541.0024301
+10,Estação Aricanduva,Avenida Aricanduva x Rua Tenente-Coronel Soares Neiva,-23.54004,-46.54066,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Aricanduva,214,Frei Mont'Alverne,36,São Paulo,93,Vila Matilde,225.2,26167,17441.65968,33830,6580.66562,48.03823127,718.4365939
+11,Estação Armênia,Rua Pedro Vicente 47,-23.52527778,-46.62916667,1,,FALSE,metrô,Terminal Metropolitano Armênia Norte;Terminal Metropolitano Armênia Sul,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Arm%C3%AAnia,9,Ponte Pequena,36,São Paulo,9,Bom Retiro,129.78,7630,13429.14599,25528,7061.544301,383.543606,212.1223484
+12,Estação Artur Alvim,Avenida Dr. Luis Aires 1800,-23.5406484,-46.4847098,3,,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Artur_Alvim,218,Artur Alvim,36,São Paulo,5,Artur Alvim,387.27,65910,15333.26546,64121,13882.06793,61.58621906,650.4564384
+13,Estação Bela Vista,Rua Rui Barbosa 710,-23.56194444,-46.645,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Bela_Vista_(Metr%C3%B4_de_S%C3%A3o_Paulo),27,Bela Vista,36,São Paulo,7,Bela Vista,93.8,15414,48486.43483,80066,14723.29449,47.96688383,397.3631495
+14,Estação Belém,Avenida Alcântara Machado s/nº,-23.54333333,-46.58972222,3,,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Bel%C3%A9m,40,Quarta Parada,36,São Paulo,8,Belém,127.4,8210,12144.09855,25112,4404.894361,78.2102866,583.7583957
+15,Estação Boa Esperança,Avenida Ragueb Chohfi 3002,-23.5969674,-46.4563846,15,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Boa_Esperan%C3%A7a,233,Sítio Carrãozinho,36,São Paulo,32,Iguatemi,323.28,57445,9383.78358,55515,13901.02838,203.5367217,1070.329569
+16,Estação Borba Gato,Avenida Santo Amaro e Avenida Adolfo Pinheiro,-23.6420776,-46.6985934,5,,FALSE,metrô,Corredor Santo Amaro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Borba_Gato,302,Chácara Flora,36,São Paulo,72,Santo Amaro,452.25,12550,25512.27143,45795,21856.81131,70.54431232,1266.59507
+17,Estação Brás,Praça Agente Cícero s/n.º,-23.54495879,-46.61647164,3;19;10;11;12;13,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Br%C3%A1s,15,Bresser,36,São Paulo,10,Brás,76.98,8592,15617.06974,21146,540.2470228,41.68241443,546.5580058
+18,Estação Brasilândia,Estrada do Sabão 191/1372,-23.47027778,-46.69805556,3;7;11;12;13;A,,TRUE,metrô,Terminal de Ônibus Brasilândia,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Brasil%C3%A2ndia,125,Vila Morro Grande,36,São Paulo,29,Freguesia do Ó,413.07,51953,13111.01572,54594,11624.39133,110.6481753,812.7990875
+19,Estação Bresser-Mooca,Rua do Hipódromo s/nº,-23.54611111,-46.60722222,3,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Bresser-Mooca,15,Bresser,36,São Paulo,10,Brás,76.98,8592,15617.06974,21146,540.2470228,24.90636547,482.3961866
+20,Estação Brigadeiro,Avenida Paulista 447,-23.56861111,-46.6475,2,19,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Brigadeiro,27,Bela Vista,36,São Paulo,7,Bela Vista,93.8,15414,48486.43483,80066,14723.29449,9.761362833,447.4365393
+21,Estação Brooklin,Avenida Santo Amaro 5010,-23.62701389,-46.68833333,5,,FALSE,metrô,Corredor Santo Amaro;Corredor Diadema–Morumbi,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Brooklin,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,40.70756997,2044.16541
+22,Estação Brooklin Paulista,Av. Jornalista Roberto Marinho Rua Vicente Leporace,-23.62944444,-46.67361111,17,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Brooklin_Paulista,269,Vieira de Moraes,36,São Paulo,15,Campo Belo,171.28,29352,20388.74481,44834,2031.755325,1.530276418,664.8091411
+23,Estação Butantã,Av. Vital Brasil Rua Pirajussara,-23.57166903,-46.70805701,4,22,FALSE,metrô,Terminal de Ônibus da SPTrans,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Butant%C3%A3,341,Butantã,36,São Paulo,12,Butantã,207.11,7406,19501.14198,31053,45873.38103,286.709128,302.8691592
+24,Estação Camilo Haddad,Av. Prof. Luís Inácio de Anhaia Mello 6494,-23.59527778,-46.5375,15,2,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Camilo_Haddad,257,Vila Ema,36,São Paulo,74,São Lucas,267.22,44393,11869.28476,38786,6088.328605,16.72073008,1362.724568
+25,Estação Campo Belo,Av. Jornalista Roberto Marinho Av. Santo Amaro,-23.61888889,-46.68233333,5,17,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Campo_Belo,71,Brooklin,36,São Paulo,34,Itaim Bibi,234.25,31301,27789.98955,57335,6013.760659,12.76247691,1126.530608
+26,Estação Campo Limpo,Avenida Carlos Caldeira Filho 3000,-23.64918861,-46.75896861,5,,FALSE,metrô,Terminal de Ônibus Urbano;Shopping Campo Limpo,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Campo_Limpo,324,Parque Arariba,36,São Paulo,17,Campo Limpo,346.59,69730,12731.94667,73113,9428.049432,54.92765829,805.9039426
+27,Estação Capão Redondo,Av. Carlos Caldeira Filho 4261,-23.65925278,-46.76817778,5,,FALSE,metrô,Terminal da EMTU,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Cap%C3%A3o_Redondo,313,Capão Redondo,36,São Paulo,19,Capão Redondo,219.39,39927,18590.76316,54498,21216.78621,34.11909607,579.7394777
+28,Estação Carrão,Avenida Radial Leste X Rua Apucarana,-23.53777778,-46.56416667,3,,FALSE,metrô,terminal de ônibus urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Carr%C3%A3o,166,Gomes Cardim,36,São Paulo,82,Tatuapé,243.24,30940,36327.00784,85215,13513.58601,19.95142432,936.0077096
+29,Estação Chácara Klabin,Rua Vergueiro Vila Mariana,-23.5925,-46.63055556,2;5,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Ch%C3%A1cara_Klabin,51,Chácara Klabin,36,São Paulo,92,Vila Mariana,97.57,15885,8586.483368,25322,3196.260831,1.662584849,556.3055627
+30,Estação Chucri Zaidan,Av. Jornalista Roberto Marinho x Av. Doutor Chucri Zaidan,-23.61398611,-46.69527778,17,,TRUE,monotrilho,E.T. Água Espraiada;Corredor Berrini - Chucri Zaidan,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Chucri_Zaidan,72,Vila Cordeiro,36,São Paulo,34,Itaim Bibi,176.69,13179,27814.22992,35497,6717.618656,40.44435339,679.0205249
+31,Estação Clínicas,Av. Dr. Arnaldo 555,-23.55388889,-46.67083333,2,,FALSE,metrô,Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Cl%C3%ADnicas,33,Pacaembu,36,São Paulo,26,Consolação,90.45,1538,1303.399698,4936,852.7850562,12.9219478,417.4320142
+32,Estação Conceição,Avenida Engenheiro Armando de Arruda Pereira 919,-23.635,-46.64111111,1,,FALSE,metrô,Terminal de ônibus e Itaú,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Concei%C3%A7%C3%A3o,275,Cidade Vargas,36,São Paulo,37,Jabaquara,347.45,38452,18336.43417,60676,12562.10445,22.93521532,913.6414316
+33,Estação Aeroporto de Congonhas,Av. Washington Luís Rua Rafael Lório,-23.62694444,-46.66176389,17,,TRUE,monotrilho,Aeroporto de Congonhas,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Aeroporto_de_Congonhas,270,Campo Belo,36,São Paulo,15,Campo Belo,138.57,9486,12299.60883,19689,1655.350529,29.41373111,1236.801061
+34,Estação Consolação,Avenida Paulista 2163,-23.55777778,-46.66055556,2;4,,TRUE,desconhecido,Paulista,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Consola%C3%A7%C3%A3o,79,Trianon,36,São Paulo,44,Jardim Paulista,59.81,9554,45115.72921,66271,5948.947708,2.743460058,298.6806944
+35,Terminal Intermodal Corinthians-Itaquera,Avenida Projetada 1900,-23.54126717,-46.47122561,3;11,,FALSE,metrô,"Conexão com terminal de ônibus, Poupatempo de Itaquera e Shopping Metrô Itaquera",https://pt.wikipedia.org/wiki/Terminal_Intermodal_Corinthians-Itaquera,191,Arena Corinthians,36,São Paulo,36,Itaquera,140.29,0,8564.063025,34219,6258.772436,226.144867,447.0226636
+36,Estação Chácara do Jockey,Avenida Professor Francisco Morato s/nº,-23.5890698,-46.7286625,4,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Ch%C3%A1cara_do_Jockey,330,Vila Sônia,36,São Paulo,96,Vila Sônia,348.44,32057,21621.13046,49022,2911.835719,386.6601714,708.9961515
+37,Estação Tiradentes,Avenida Tiradentes 551,-23.53083333,-46.63222222,1,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Tiradentes,7,Luz,36,São Paulo,9,Bom Retiro,154.6,14849,31034.4283,49493,4810.152289,239.7007569,250.7922588
+38,Estação Vila União (Metrô de São Paulo),Av. Professor Luís Inácio de Anhaia Mello 9048,-23.60277778,-46.51555556,15,,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Uni%C3%A3o_(Metr%C3%B4_de_S%C3%A3o_Paulo),261,Jardim Colorado,36,São Paulo,78,Sapopemba,320.26,53479,22926.84911,60515,11648.27636,16.16653937,1377.192677
+39,Estação Eucaliptos,"Avenida Ibirapuera com as Avenidas dos Eucaliptos, Cotovia e dos Imarés",-23.61,-46.66861111,5,19,FALSE,metrô,Corredor Ver. José Diniz - Ibirapuera - Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Eucaliptos,66,Bandeirantes,36,São Paulo,53,Moema,133.42,10382,24358.98066,53200,4093.847624,322.0067912,35.13996508
+40,Estação FAAP–Pacaembu,Rua Armando Penteado 186,-23.5443668,-46.6636642,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_FAAP%E2%80%93Pacaembu,34,FAAP,36,São Paulo,26,Consolação,74.45,6465,9644.478603,16737,4586.99198,225.1510375,93.67661874
+41,Estação Faria Lima,Avenida Brigadeiro Faria Lima 950,-23.56694444,-46.69361111,4,20,FALSE,metrô,Integração com terminal de ônibus urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Faria_Lima,82,Pinheiros,36,São Paulo,63,Pinheiros,202.58,12398,72610.1716,94646,5047.416788,381.884102,307.2120961
+42,Estação Fazenda da Juta,Av. Sapopemba 12580,-23.61166667,-46.4875,15,,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Fazenda_da_Juta,263,Fazenda da Juta,36,São Paulo,78,Sapopemba,329.57,62710,21273.26322,50287,11775.10732,182.1342675,808.3092526
+43,Estação Fradique Coutinho,Rua dos Pinheiros sem número,-23.5669658,-46.686024,4,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Fradique_Coutinho,80,Jardim Paulistano,36,São Paulo,63,Pinheiros,98.98,19075,31037.26614,45770,3762.681676,147.5542965,390.9569294
+44,Estação Freguesia do Ó,Tv. Mona Lisa 58,-23.50236111,-46.69388889,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Freguesia_do_%C3%93,127,Freguesia do Ó,36,São Paulo,29,Freguesia do Ó,485.85,54403,29134.78543,85586,18680.72218,601.4203077,617.6713993
+45,Estação Giovanni Gronchi,Av. João Dias 3569,-23.64438028,-46.73415639,5,,FALSE,metrô,Terminal João Dias,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Giovanni_Gronchi,305,Jardim São Luís,36,São Paulo,45,Jardim São Luís,408.45,73405,25881.11098,94896,26459.32906,110.9906904,1317.440308
+46,Estação Guilherme Giorgi,Avenida Guilherme Giorgi x Avenida Conselheiro Carrão,-23.54663,-46.54115,2,208,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Guilherme_Giorgi,208,Vila Califórnia,36,São Paulo,20,Carrão,340.04,45152,35889.54038,66084,7060.239241,267.6359528,673.409072
+47,Estação Guilhermina-Esperança,Rua Astorga 800,-23.5304254,-46.5172513,3,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Guilhermina-Esperan%C3%A7a,216,Cidade Patriarca,36,São Paulo,93,Vila Matilde,336.5,39808,12993.78875,39881,5575.676198,102.2405626,1198.233333
+48,Estação Higienópolis–Mackenzie,Rua da Consolação Rua Piauí,-23.548966,-46.6524267,4,6,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Higien%C3%B3polis%E2%80%93Mackenzie,31,Vila Buarque,36,São Paulo,26,Consolação,89.58,22443,27450.62992,79448,29915.13849,235.378879,69.43722094
+49,Estação Hospital São Paulo,Rua Pedro de Toledo 937,-23.59843056,-46.64555556,5,,FALSE,metrô,Corredor Vereador José Diniz-Ibirapuera-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Hospital_S%C3%A3o_Paulo,54,Vila Clementino,36,São Paulo,92,Vila Mariana,93.7,8445,27773.68958,46635,3190.53282,106.0043137,303.769684
+50,Estação Itaberaba - Hospital Vila Penteado,Avenida Itaberaba 1823,-23.4864874,-46.6927371,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Itaberaba,126,Itaberaba,36,São Paulo,29,Freguesia do Ó,207.42,34294,12003.09701,43576,7935.89667,14.39852621,865.8778506
+51,Terminal Intermodal Jabaquara,Rua dos Jequitibás 80,-23.64638889,-46.64111111,1,17,FALSE,metrô,Terminal Jabaquara;Terminal Intermunicipal Jabaquara,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Jabaquara,274,Jabaquara,36,São Paulo,37,Jabaquara,288.72,31810,42211.45549,81758,10063.00327,60.9665245,649.2532173
+52,Estação Jacu-Pêssego,Av. Ragueb Chohfi 4383,-23.5945211,-46.4437193,15,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Jacu-P%C3%AAssego,232,Iguatemi,36,São Paulo,32,Iguatemi,498.47,46829,10598.99024,43529,14670.62862,174.1032091,1735.072203
+53,Estação Washington Luís,Av. Jornalista Roberto Marinho Av. Washington Luís,-23.63472222,-46.66833333,17,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Washington_Lu%C3%ADs_(Metr%C3%B4_de_S%C3%A3o_Paulo),272,Jardim Aeroporto,36,São Paulo,15,Campo Belo,198.55,21083,15393.86438,35100,4490.063613,77.47731543,589.6234501
+54,Estação Jardim Colonial,Avenida Ragueb Chohfi 1400,-23.5999194,-46.4694932,15,,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Jardim_Colonial,267,Cidade Satélite,36,São Paulo,75,São Mateus,300.48,32392,17035.76352,36577,7238.518349,26.68232781,1026.337523
+55,Estação Jardim Planalto,Avenida Sapopemba 10000,-23.6066092,-46.5077873,15,,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Jardim_Planalto,260,Parque Santa Madalena,36,São Paulo,78,Sapopemba,204.85,43276,7282.019543,43359,5834.722597,17.84610191,892.7929133
+56,Estação João Paulo I,Av. Miguel Conejo 1221/1234,-23.49277778,-46.69083333,6,,TRUE,metrô,Terminal de Ônibus João Paulo I,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Jo%C3%A3o_Paulo_I,127,Freguesia do Ó,36,São Paulo,29,Freguesia do Ó,485.85,54403,29134.78543,85586,18680.72218,555.7409468,775.8385651
+57,Estação Largo Treze,Avenida Padre José Maria,-23.65444444,-46.71083333,5,,FALSE,metrô,Terminal Santo Amaro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Largo_Treze,304,Vila Miranda,36,São Paulo,72,Santo Amaro,271.15,14227,30053.03281,50406,22018.32405,275.6761571,474.3594244
+58,Estação Japão-Liberdade,Praça da Liberdade 133,-23.555,-46.63583333,1,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Jap%C3%A3o-Liberdade,3,Praça João Mendes,36,São Paulo,80,Sé,47.75,16579,18142.38791,31174,5051.936304,122.5880163,345.599978
+59,Estação Luz,Av. Prestes Maia 925,-23.53611111,-46.63472222,7;11;10; 13;A;T;1;4,,FALSE,metrô,Estação da Luz,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Luz,6,Santa Ifigênia,36,São Paulo,67,República,82.93,22224,36623.04828,49976,1015.810559,64.69205664,513.6960401
+60,Estação Marechal Deodoro,Praça Marechal Deodoro s/n.º,-23.53388889,-46.65555556,3,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Marechal_Deodoro,36,Marechal Deodoro,36,São Paulo,70,Santa Cecília,142.2,39380,35805.89535,62957,7377.963328,212.1193005,152.4269895
+61,Estação Moema,Av. Ibirapuera Av. Divino Salvador,-23.60361111,-46.66194444,5,,FALSE,metrô,Corredor Ver. José Diniz - Ibirapuera - Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Moema,64,Moema,36,São Paulo,53,Moema,175.13,31340,42155.2533,75240,4419.009804,307.9877235,371.6076414
+62,Estação Morumbi - Claro,Avenida das Nações Unidas 14171,-23.62159167,-46.70166667,19,17,TRUE,desconhecido,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Morumbi,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,73.21942217,1514.211252
+63,Estação Oratório,Av. do Oratório 165,-23.58194444,-46.56166667,15,,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Orat%C3%B3rio,256,Linhas Corrente,36,São Paulo,74,São Lucas,251.81,27883,8440.31262,34192,2688.032302,98.44327641,1038.710852
+64,Estação Orfanato,Rua do Orfanato X Rua Doutor Sanareli,-23.5802571,-46.5754122,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Orfanato,254,Orfanato,36,São Paulo,95,Vila Prudente,354.26,35158,33216.01086,85093,26278.79998,236.6164142,420.2870641
+65,Estação Oscar Freire,Avenida Rebouças s/nº,-23.56055556,-46.67194444,4,,FALSE,metrô,Corredor Campo Limpo-Rebouças-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Oscar_Freire,78,Oscar Freire,36,São Paulo,44,Jardim Paulista,100.01,17995,25746.23316,34850,716.9159823,18.35762465,652.4164043
+66,Terminal Intermodal Palmeiras-Barra Funda,Av. Mário de Andrade s/n - Barra Funda,-23.5266705,-46.6671876,3;7;8,,FALSE,metrô,"ônibus municipais, intermunicipais, interestaduais, internacionais e metropolitanos, trens e metrô",https://pt.wikipedia.org/wiki/Terminal_Intermodal_Palmeiras-Barra_Funda,93,Francisco Matarazzo,36,São Paulo,6,Barra Funda,105.13,10352,30872.07649,65937,39737.53747,137.3008265,344.0741837
+67,Estação Parada Inglesa,Avenida Luís Dumont Vilares 1721,-23.48694444,-46.60861111,1,,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Parada_Inglesa,152,Parada Inglesa,36,São Paulo,84,Tucuruvi,242.67,35826,11810.03987,52373,3959.280375,126.5706632,533.4137317
+68,Estação Paraíso,Rua Vergueiro 1456,-23.575,-46.64083333,1;2,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Para%C3%ADso_(Metr%C3%B4_de_S%C3%A3o_Paulo),49,Ana Rosa,36,São Paulo,92,Vila Mariana,94.46,14861,18304.76796,31928,4609.103955,53.26977468,764.412135
+69,Estação Patriarca-Vila Ré,Av. Antonio E. Carvalho 1990,-23.53095335,-46.50147646,3,,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Patriarca-Vila_R%C3%A9,216,Cidade Patriarca,36,São Paulo,93,Vila Matilde,336.5,39808,12993.78875,39881,5575.676198,10.81590527,863.3057705
+70,Estação Paulista,Rua da Consolação 2406,-23.5551714,-46.6625427,2;4,,FALSE,metrô,Consolação;Corredor Campo Limpo-Rebouças-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Paulista,32,Consolação,36,São Paulo,26,Consolação,57.23,7339,53924.99541,65025,13189.46118,66.15204972,238.3481506
+71,Estação Pedro II,Rua da Figueira s/nº,-23.54972222,-46.62583333,3,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Pedro_II,2,Parque Dom Pedro,36,São Paulo,80,Sé,113.64,4245,50551.67751,69787,1509.2644,45.59641891,740.9600232
+72,Estação Penha (São Paulo),Avenida Conde de Frontin s/n,-23.5334571,-46.5402103,3,2;11,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Penha_(S%C3%A3o_Paulo),214,Frei Mont'Alverne,36,São Paulo,93,Vila Matilde,225.2,26167,17441.65968,33830,6580.66562,69.03735886,949.8155507
+73,Estação Perdizes,Rua Apiacás 40 x Rua Ciro Costa 122,-23.5325,-46.67583333,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Perdizes,88,Perdizes,36,São Paulo,61,Perdizes,168.45,39132,23365.95177,65733,4180.812176,32.11246607,604.0775802
+74,Terminal Intermodal Pinheiros,Rua Capri 145,-23.56722222,-46.7025,4;9,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Pinheiros,82,Pinheiros,36,São Paulo,63,Pinheiros,202.58,12398,72610.1716,94646,5047.416788,94.19147992,601.2184844
+75,Estação Portuguesa-Tietê,Avenida Cruzeiro do Sul 1777,-23.51636111,-46.625,1,,FALSE,metrô,Terminal Rodoviário Tietê,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Portuguesa-Tiet%C3%AA,131,Tietê,36,São Paulo,71,Santana,78.6,1429,11495.48698,18436,2979.384032,320.8858206,87.10068512
+76,Estação Praça da Árvore,Praça da Árvore 39,-23.61055556,-46.63777778,1,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Pra%C3%A7a_da_%C3%81rvore,58,Bosque da Saúde,36,São Paulo,79,Saúde,169.91,34327,17772.21654,50773,4205.685017,10.01628604,756.1105473
+77,Estação PUC–Cardoso de Almeida,Rua Ciro Costa 155/229 x Rua Cardoso de Almeida,-23.53888889,-46.66888889,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_PUC%E2%80%93Cardoso_de_Almeida,84,PUC,36,São Paulo,61,Perdizes,73.32,16698,15663.62575,39082,13645.10079,29.39035157,399.3089414
+78,Estação República,Rua do Arouche 24,-23.54388889,-46.64277778,3;4,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Rep%C3%BAblica_(Metr%C3%B4_de_S%C3%A3o_Paulo),5,República,36,São Paulo,67,República,74.95,15099,82670.40498,101015,4107.699002,281.8751601,56.11159954
+79,Terminal Intermodal Sacomã,Ruas Bom Pastor Greenfeld e Agostinho Gomes,-23.60158333,-46.60316667,2,,FALSE,metrô,Expresso Tiradentes,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Sacom%C3%A3,237,Sacomã,36,São Paulo,33,Ipiranga,90.34,11084,13589.06342,30941,1675.648029,17.20772277,546.6412646
+80,Estação Santa Cecília,Largo Santa Cecília s/n,-23.53944444,-46.64888889,3,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santa_Cec%C3%ADlia,35,Santa Cecília,36,São Paulo,70,Santa Cecília,144.09,34564,48413.83759,60050,5619.956308,245.9615282,455.0374583
+81,Estação Santa Clara,Avenida Sapopemba 2271,-23.57401,-46.56708389,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santa_Clara_(Metr%C3%B4_de_S%C3%A3o_Paulo),46,Água Rasa,36,São Paulo,1,Água Rasa,315.81,37113,13438.70426,35320,9147.931917,252.4055587,255.943667
+82,Estação Santa Cruz (Metrô de São Paulo),Rua Domingos de Morais 2564,-23.59861111,-46.63666667,1;5,,FALSE,metrô,Corredor de ônibus Vereador José Diniz-Ibirapuera-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santa_Cruz_(Metr%C3%B4_de_S%C3%A3o_Paulo),54,Vila Clementino,36,São Paulo,92,Vila Mariana,93.7,8445,27773.68958,46635,3190.53282,1.529031435,736.792547
+83,Estação Santa Isabel,Avenida Guilherme Giorgi 1017,-23.55486,-46.54493611,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santa_Isabel_(Metr%C3%B4_de_S%C3%A3o_Paulo),209,Vila Carrão,36,São Paulo,20,Carrão,440.28,41342,18217.42241,56331,7719.036855,50.82571711,1392.951149
+84,Estação Santa Marina,Av. Santa Marina 1158,-23.51444444,-46.69138889,6;20,,TRUE,metrô,Corredor Inajar-Rio Branco-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santa_Marina,91,Santa Marina,36,São Paulo,6,Barra Funda,295.36,14340,27195.33366,48499,13627.28896,24.80956611,1188.307547
+85,Estação Santo Amaro,Av. Guido Caloi 2221;Av. das Nações Unidas s/n,-23.6554921,-46.7243295,5;9,,FALSE,metrô,Terminal Guido Caloi,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santo_Amaro,306,Centro Empresarial,36,São Paulo,45,Jardim São Luís,675.29,113649,27240.00506,102925,18486.33164,297.4176358,1810.665213
+86,Estação Santos-Imigrantes,Av. Dr. Ricardo Jafet s/nº,-23.59583333,-46.62055556,2,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santos-Imigrantes,251,Vila Gumercindo,36,São Paulo,27,Cursino,137.19,25031,6795.395166,23813,3104.784727,110.767741,722.2722999
+87,Estação Santuário Nossa Senhora de Fátima-Sumaré,Av. Dr. Arnaldo 1470,-23.55083333,-46.67805556,2,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Santu%C3%A1rio_Nossa_Senhora_de_F%C3%A1tima-Sumar%C3%A9,83,Vila Madalena,36,São Paulo,63,Pinheiros,219.31,23379,33714.53213,53078,7877.415372,23.31502798,1156.880795
+88,Estação São Bento (Metrô de São Paulo),Largo São Bento 109,-23.54457156,-46.63381603,1,19,FALSE,metrô,Terminal Correio da SPTrans,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A3o_Bento_(Metr%C3%B4_de_S%C3%A3o_Paulo),2,Parque Dom Pedro,36,São Paulo,80,Sé,113.64,4245,50551.67751,69787,1509.2644,3.548546891,449.2382969
+89,Estação São Joaquim,Av. da Liberdade 1033,-23.56277778,-46.63916667,1,6,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A3o_Joaquim,24,Liberdade,36,São Paulo,49,Liberdade,59.49,10737,21481.43472,46877,40868.75815,11.92024963,517.9908833
+90,Estação São Judas,Avenida Jabaquara 2438,-23.62555556,-46.64083333,1,,FALSE,metrô,Conexão com linhas de ônibus para o Aeroporto de Congonhas,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A3o_Judas,59,Saúde,36,São Paulo,79,Saúde,260.81,50121,29496.62689,72349,7805.304069,119.3562988,739.0268524
+91,Estação São Lucas,Av. Professor Luís Inácio de Anhaia Mello 5400,-23.58888889,-46.54444444,15,2,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A3o_Lucas,257,Vila Ema,36,São Paulo,74,São Lucas,267.22,44393,11869.28476,38786,6088.328605,11.31693641,500.834239
+92,Terminal Intermodal São Mateus,Av. Adélia Chohfi 100,-23.61305556,-46.47611111,15,,FALSE,monotrilho,Terminal de ônibus urbanos,https://pt.wikipedia.org/wiki/Terminal_Intermodal_S%C3%A3o_Mateus,264,São Mateus,36,São Paulo,75,São Mateus,427.59,64306,35266.38932,85701,12421.82848,30.46630974,964.8865991
+93,Estação São Paulo-Morumbi,Av. Deputado Jacob Salvador Zveibil 50,-23.58611111,-46.72388889,4,17,FALSE,metrô,Corredor Campo Limpo-Rebouças-Centro,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A3o_Paulo-Morumbi,342,Jardim Caxingui,36,São Paulo,12,Butantã,180.08,9403,4872.599034,19552,874.1731827,26.42199143,828.6600119
+94,Terminal Intermodal Sapopemba,Av. Sapopemba 11268,-23.61472222,-46.50083333,15,,FALSE,monotrilho,Terminal de ônibus municipal,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Sapopemba,263,Fazenda da Juta,36,São Paulo,78,Sapopemba,329.57,62710,21273.26322,50287,11775.10732,141.8009891,782.9421194
+95,Estação Saúde,Avenida Jabaquara 1634,-23.61833333,-46.63916667,1,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Sa%C3%BAde,59,Saúde,36,São Paulo,79,Saúde,260.81,50121,29496.62689,72349,7805.304069,380.519961,487.8308138
+96,Estação Sé,Praça da Sé s/nº,-23.55055556,-46.63277778,1;3,,FALSE,metrô,Conexão com terminal de ônibus e Catedral da Sé,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_S%C3%A9,1,Sé,36,São Paulo,80,Sé,57.1,3600,65917.90134,73187,11617.91457,206.3707179,226.3406566
+97,Estação SESC-Pompeia,Rua Venâncio Aires 554/620 x Av. Pompéia 293,-23.52704167,-46.68305556,6,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_SESC-Pompeia,90,Pompéia,36,São Paulo,61,Perdizes,60,12709,7551.70905,20651,3923.1552,24.87688014,546.1191889
+98,Estação Tamanduateí,Rua Guamiranga 750,-23.5945224,-46.5864382,10;2,18,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Tamanduate%C3%AD,253,Tamanduateí,36,São Paulo,95,Vila Prudente,112.99,5606,5657.719902,8686,53.84366342,114.4731151,387.4608077
+99,Estação Tatuapé,Rua Catiguá s/nº,-23.54027778,-46.57638889,3;11;12,,FALSE,metrô,Conexão com terminal de ônibus e Shopping Metrô Tatuapé;Shopping Metrô Boulevard Tatuapé,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Tatuap%C3%A9,167,Tatuapé,36,São Paulo,82,Tatuapé,156.88,15559,36914.24216,91979,7408.581488,22.98629509,714.2463081
+100,Terminal Intermodal Taboão da Serra,Rodovia Régis Bittencourt,-23.60414314,-46.76351078,4,,TRUE,metrô,Terminal de ônibus,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Tabo%C3%A3o_da_Serra,468,Taboão da Serra,38,Taboão da Serra,133,Taboão da Serra,526.97,71854,33148.71231,108363,3087.66084,620.3573459,521.3247604
+101,Estação Trianon-Masp,Avenida Paulista 1485,-23.56305556,-46.65416667,2,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Trianon-Masp,29,Masp,36,São Paulo,7,Bela Vista,57.27,10141,71740.99434,83941,7470.392839,17.74814269,524.5909051
+102,Estação Vereador José Diniz,Av. Jornalista Roberto Marinho x Av. Ver. José Diniz,-23.62222222,-46.67861111,17,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vereador_Jos%C3%A9_Diniz,269,Vieira de Moraes,36,São Paulo,15,Campo Belo,171.28,29352,20388.74481,44834,2031.755325,2.077709363,602.0716176
+103,Estação Vergueiro,Rua Vergueiro 790,-23.56861111,-46.64,1,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vergueiro,23,Centro Cultural,36,São Paulo,49,Liberdade,33.24,4162,12186.0589,38644,30456.394,68.98365769,170.9402522
+104,Estação Maristela,Estrada do Sabão 759/800,-23.47638889,-46.69888889,6,,TRUE,metrô,Terminal de Ônibus Maristela,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Maristela,125,Vila Morro Grande,36,São Paulo,29,Freguesia do Ó,413.07,51953,13111.01572,54594,11624.39133,285.5499322,534.856464
+105,Estação Vila Cordeiro,Av. Jornalista Roberto Marinho x Rua Godói Colaço,-23.61555556,-46.68861111,17,,TRUE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Cordeiro,72,Vila Cordeiro,36,São Paulo,34,Itaim Bibi,176.69,13179,27814.22992,35497,6717.618656,7.170857686,567.7898872
+106,Estação Vila das Belezas,Av. das Belezas 880,-23.64025167,-46.74571694,5,,FALSE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_das_Belezas,323,Vila Suzana,36,São Paulo,85,Vila Andrade,300.5,58539,22550.04486,78835,7626.385223,66.27824247,1658.446553
+107,Estação Vila Formosa,Av. Eduardo Cotching x Rua Tauandê,-23.56267111,-46.55113,2,,TRUE,metrô,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Formosa,210,Jardim Anália Franco,36,São Paulo,87,Vila Formosa,334.04,34111,22276.14772,56995,11009.26768,664.9530139,399.9578247
+108,Estação Vila Madalena,Praça Américo Jacomino 30,-23.54666667,-46.69055556,2,,FALSE,metrô,Terminal de ônibus,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Madalena,83,Vila Madalena,36,São Paulo,63,Pinheiros,219.31,23379,33714.53213,53078,7877.415372,11.53250072,837.0325575
+109,Estação Vila Mariana,Avenida Professor Noé Azevedo 255,-23.58944444,-46.63444444,1,,FALSE,metrô,Terminal de Ônibus da Vila Mariana,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Mariana,52,Vila Mariana,36,São Paulo,92,Vila Mariana,59.61,9523,9582.157423,20922,2190.114354,30.67433304,502.586472
+110,Estação Vila Matilde,Rua Coronel Pedro Dias de Campos 1170,-23.5327979,-46.5311284,3,,FALSE,metrô,Terminal de Ônibus Urbano,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Matilde,215,Vila Matilde,36,São Paulo,93,Vila Matilde,330.17,40156,18553.20048,45691,6539.795893,137.2035515,1664.22114
+111,Terminal Intermodal Vila Prudente,Av. Prof. Luis Inácio de Anhaia Melo 1359,-23.58451889,-46.58199889,2;15,,FALSE,metrô,Conexão com terminal de ônibus e corredores de ônibus Paes de Barros e Expresso Tiradentes,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Vila_Prudente,254,Orfanato,36,São Paulo,95,Vila Prudente,354.26,35158,33216.01086,85093,26278.79998,481.2487729,568.3183333
+112,Terminal Intermodal Vila Sônia,Avenida Professor Francisco Morato Rua Heitor dos Prazeres s/nº,-23.5934663,-46.7351381,4,,FALSE,metrô,Conexão com terminal de ônibus e Corredor Campo Limpo-Rebouças-Centro da SPTrans,https://pt.wikipedia.org/wiki/Terminal_Intermodal_Vila_S%C3%B4nia,330,Vila Sônia,36,São Paulo,96,Vila Sônia,348.44,32057,21621.13046,49022,2911.835719,383.0000951,478.426668
+113,Estação Vila Tolstói,Avenida Professor Luis Inácio de Anhaia Melo 7712,-23.6011333,-46.5271397,15,2,FALSE,monotrilho,,https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Vila_Tolst%C3%B3i,258,Parque São Lucas,36,São Paulo,74,São Lucas,449.68,69192,24831.76673,46333,11965.08531,26.3153557,1080.48887
+114,Estação Tucuruvi,Av. Dr. Antonio Maria Laet 100,-23.4808342,-46.6038497,1,,FALSE,metrô,,,154,Vila Gustavo,36,São Paulo,84,Tucuruvi,345.8,49150,27154.98688,76043,18266.52219,47.79041239,992.7620748
+115,Estação Santana,Avenida Cruzeiro do Sul 3173,-23.5027387,-46.6251067,1,,FALSE,metrô,,,129,Santana,36,São Paulo,71,Santana,54.36,3824,14984.48914,31483,794.9669088,144.8899801,326.137764
+116,Estação Jardim São Paulo-Ayrton Senna,Avenida Leôncio de Magalhães 1000,-23.4923919,-46.6176651,1,,FALSE,metrô,,,135,Jardim São Paulo,36,São Paulo,71,Santana,291.23,34660,19834.63436,65491,7821.322112,558.8274659,401.4472835
+117,Estação Carandiru,Avenida Cruzeiro do Sul 2487,-23.5091475,-46.6251645,1,,FALSE,metrô,,,128,Carandiru,36,São Paulo,71,Santana,38.03,2146,9781.328831,23049,3635.726197,24.94321535,218.948656
+118,Estação Jundiaí,"Av. União dos Ferroviários, s/nº, Vila Arens",-23.19494028,-46.87236448,7;T,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Jundiaí,,,,,,,,,,,,9223.965609,15763.76145
+119,Estação Várzea Paulista,,-23.20882988,-46.82937504,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Várzea_Paulista,,,,,,,,,,,,6128.903445,10985.13315
+120,Estação Campo Limpo Paulista,,-23.20620038,-46.78589866,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Campo_Limpo_Paulista,,,,,,,,,,,,5636.16513,7139.571655
+121,Estação Botujuru,,-23.23607205,-46.76751383,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Botujuru,,,,,,,,,,,,2193.297586,6166.028006
+122,Estação Francisco Morato,,-23.28243751,-46.74233168,7,,FALSE,trem,,,357,Francisco Morato,12,Francisco Morato,108,Francisco Morato,1857.33,107239,18843.086,58262,13518.80984,30.72612387,1590.901416
+123,Estação Baltazar Fidélis,,-23.30992164,-46.7238996,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Baltazar_Fidélis,351,Baltazar Fidélis,13,Franco da Rocha,109,Franco da Rocha,2505.16,72796,20058.89641,55816,844.3612842,10.0245332,3261.090683
+124,Estação Franco da Rocha,,-23.32946394,-46.72643035,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Franco_da_Rocha,351,Baltazar Fidélis,13,Franco da Rocha,109,Franco da Rocha,2505.16,72796,20058.89641,55816,844.3612842,8.301160953,3344.318867
+125,Estação Caieiras,,-23.36610839,-46.75150545,7,,FALSE,trem,,https://pt.wikipedia.org/wiki/Estação_Caieiras,345,Caieiras,4,Caieiras,100,Caieiras,1990.04,50127,25575.30444,74687,94.80262657,6.833097322,2661.585486
+126,Estação Perus,,-23.40465296,-46.75348676,7,,FALSE,trem,,,119,Perus,36,São Paulo,62,Perus,2369.13,89903,25806.05804,85540,26479.86265,1610.213553,850.2217043
+127,Estação Vila Aurora,,-23.43747538,-46.7472321,7,,FALSE,trem,,,116,Parada de Taipas,36,São Paulo,41,Jaraguá,1553.24,164908,35168.8974,148018,39270.29049,11.83103965,2238.026791
+128,Estação Jaraguá,,-23.4551091,-46.73858489,7,,FALSE,trem,,,116,Parada de Taipas,36,São Paulo,41,Jaraguá,1553.24,164908,35168.8974,148018,39270.29049,11.94490103,2264.270423
+129,Estação Vila Clarice,,-23.46978878,-46.74422011,7,,FALSE,trem,,,109,Vila Zatt,36,São Paulo,64,Pirituba,1220.22,119648,44368.55891,133126,17728.48245,113.3636479,1613.879953
+130,Estação Pirituba,,-23.48834534,-46.72623207,7,,FALSE,trem,,,109,Vila Zatt,36,São Paulo,64,Pirituba,1220.22,119648,44368.55891,133126,17728.48245,31.36693813,1600.801423
+131,Estação Piqueri,,-23.5038114,-46.71481067,7,,FALSE,trem,,,110,Pirituba,36,São Paulo,64,Pirituba,488.92,64542,25024.67914,72060,13682.97544,481.4617744,815.0075095
+132,Estação Lapa,,-23.52020103,-46.69895997,7,,FALSE,trem,,,100,Lapa,36,São Paulo,48,Lapa,225.22,23708,55225.78159,110822,13511.79471,48.70306947,383.9378085
+133,Estação Água Branca,,-23.52110287,-46.68842142,7;3;6,,FALSE,metrô,,,99,Lapa de Baixo,36,São Paulo,48,Lapa,242.69,8747,25723.55546,25501,859.3730084,23.25527516,1446.479388
+135,Estação Dom Bosco,,-23.54134679,-46.44676468,11,,FALSE,trem,,,189,Parada XV,36,São Paulo,36,Itaquera,324.46,49905,12400.12377,45355,10978.49024,174.1508479,927.8973172
+136,Estação José Bonifácio,,-23.53146509,-46.43386637,11,,FALSE,trem,,,189,Parada XV,36,São Paulo,36,Itaquera,324.46,49905,12400.12377,45355,10978.49024,336.5930963,893.4337963
+137,Estação Guaianases,,-23.54215343,-46.41560365,11,,FALSE,trem,,,204,Fábrica Bandeirantes,36,São Paulo,47,Lajeado,615.33,115420,32674.03799,85457,29683.33205,9.959520826,1578.815898
+138,Estação Antônio Gianetti Neto,,-23.55419392,-46.38362492,11,,FALSE,trem,,,396,Santos Dumont,11,Ferraz de Vasconcelos,107,Ferraz de Vasconcelos,945.21,99385,24506.92789,89530,0,9.440729234,2364.165891
+139,Estação Ferraz de Vasconcelos,,-23.54064228,-46.36825146,11,,FALSE,trem,,,396,Santos Dumont,11,Ferraz de Vasconcelos,107,Ferraz de Vasconcelos,945.21,99385,24506.92789,89530,0,0.225357473,1305.702264
+140,Estação Poá,,-23.52511693,-46.34351917,11,,FALSE,trem,,,398,Poá,26,Poá,122,Poá,1322.41,83968,39832.54282,104534,0,1404.775715,373.083788
+141,Estação Suzano,,-23.53389423,-46.30792073,11;12,,FALSE,trem,,,403,Miguel Badra,37,Suzano,132,Suzano,3270.75,116935,31932.03449,109836,19550.90293,76.10869357,2657.10861
+142,Estação Jundiapeba,,-23.54260396,-46.25808343,11,,FALSE,trem,,,411,Jundiapeba,23,Mogi das Cruzes,119,Mogi das Cruzes,2374.68,58830,13254.47999,33871,19138.03616,752.0239588,2214.297486
+143,Estação Braz Cubas,,-23.53611382,-46.22524206,11,,FALSE,trem,,,410,Brás Cubas,23,Mogi das Cruzes,119,Mogi das Cruzes,2147.95,122895,39568.44201,91796,31319.36804,784.6712066,1903.717696
+144,Estação Mogi das Cruzes,,-23.52112209,-46.19672782,11,,FALSE,trem,,,407,Mogi das Cruzes,23,Mogi das Cruzes,119,Mogi das Cruzes,1358.15,81670,44102.13917,115867,46204.92211,20.48268646,2222.425605
+145,Estação Estudantes,,-23.51502223,-46.1840371,11,,FALSE,trem,,,408,Estudantes,23,Mogi das Cruzes,119,Mogi das Cruzes,995.8,39902,29548.39253,51604,7895.693539,24.83383256,1443.240876
+146,Estação Juventus – Mooca,"Avenida Presidente Wilson, 483 / Rua Monsenhor João Felipo, s/nº – Mooca",-23.55778603,-46.60834663,10,,FALSE,trem,,,45,Parque da Mooca,36,São Paulo,54,Mooca,381.42,33846,37254.91796,76809,12959.58457,0.919902511,1505.52695
+147,Estação Ipiranga,"Avenida Presidente Wilson, 3.473 (Vila Independência) / Rua Ilha de Serigipe, s/nº (Vila Prudente)",-23.58227235,-46.5967864,10,,FALSE,monotrilho,,,241,Vila Independência,36,São Paulo,33,Ipiranga,170.22,10864,12257.17733,27313,1516.46295,9.574529747,385.1422431
+148,Estação São Caetano do Sul – Pref. Walter Braido,"Rua Serafim Constantino, 51 (Centro)/ Rua Perrela, s/nº (Fundação) -São Caetano do Sul",-23.6099799,-46.5701288,10,,FALSE,trem,,,428,São Caetano do Sul,34,São Caetano do Sul,130,São Caetano do Sul,367.7,16486,44119.13307,58731,0,304.9492369,522.9453514
+149,Estação Utinga,"Avenida da Paz, s/nº- Utinga – Santo André",-23.6246184,-46.5422888,10,,FALSE,trem,,,434,Utinga,32,Santo André,128,Santo André,566.15,50970,24907.83426,57530,4046.927933,238.5798014,730.2933299
+150,Estação Prefeito Saladino,"Praça Armando Arruda, s/nº / Rua Alfreds Peagles, s/nº – Campestre – Santo André",-23.6387707,-46.537957,10,,FALSE,trem,,,433,Campestre,32,Santo André,128,Santo André,287.09,30843,20795.64684,39605,14894.69576,82.70044655,843.7029596
+151,Estação Pref. Celso Daniel-Santo André,"Rua Itambé, s/n° (Centro) – Santo André",-23.6518965,-46.5289655,10,,FALSE,trem,,,429,Santo André,32,Santo André,128,Santo André,795.2,71448,109301.5781,212806,6557.943683,331.3341869,539.7331091
+152,Estação Capuava,"Avenida Padre Manoel da Nóbrega, s/nº – Capuava – Mauá",-23.6528854,-46.5348874,10,,FALSE,trem,,,429,Santo André,32,Santo André,128,Santo André,795.2,71448,109301.5781,212806,6557.943683,672.7118235,746.3809556
+153,Estação Mauá,"Avenida Rio Branco, s/n – Mauá",-23.6723802,-46.456395,10,,FALSE,trem,,,443,Mauá,22,Mauá,118,Mauá,1131.35,114594,61036.36003,170496,8470.324279,766.705177,1001.248294
+154,Estação Guapituba,"Avenida Brasil, s/n – Mauá",-23.6870884,-46.4510956,10,,FALSE,trem,,,443,Mauá,22,Mauá,118,Mauá,1131.35,114594,61036.36003,170496,8470.324279,1059.698185,716.89362
+155,Estação Ribeirão Pires – Antonio Bespalec,"Rua Capitão José Gallo, s/n – Ribeirão Pires",-23.7067369,-46.4214859,10,,FALSE,trem,,,447,Ribeirão Pires,27,Ribeirão Pires,123,Ribeirão Pires,5256.82,79005,45367.41332,109334,16478.56187,1649.826409,2043.492082
+156,Estação Rio Grande da Serra,"Rua Guilherme Pinto Monteiro, s/n – Rio Grande da Serra",-23.735502,-46.392561,10,,FALSE,trem,,,450,Parque Sete Pontes,28,Rio Grande da Serra,124,Rio Grande da Serra,1886.11,12232,2759.679733,10722,37532.10919,726.0291306,3121.279901
+157,Amador Bueno,,-23.5335057,-46.9841541,8,,FALSE,trem,,,525,Amador Bueno,17,Itapevi,113,Itapevi,5113.23,127020,36232.67309,118324,31.64698933,896.557811,2034.731297
+158,Santa Rita,,-23.54501321,-46.94779208,8,,FALSE,trem,,,524,Itapevi,17,Itapevi,113,Itapevi,1070.03,106373,24491.92546,88869,16137.70738,34.03573086,2139.844116
+159,Itapevi,,-23.5507572,-46.9388116,8,,FALSE,trem,,,524,Itapevi,17,Itapevi,113,Itapevi,1070.03,106373,24491.92546,88869,16137.70738,35.36652963,1347.433291
+160,Eng. Cardoso,,-23.5352414,-46.9285673,8,,FALSE,trem,,,524,Itapevi,17,Itapevi,113,Itapevi,1070.03,106373,24491.92546,88869,16137.70738,664.9494641,1163.516539
+161,Sagrado Coração,,-23.52726132,-46.91529885,8,,FALSE,trem,,,513,Ribeirão Itaqui,19,Jandira,115,Jandira,356.79,9317,13774.88244,17977,5805.6019,218.5941173,582.6518091
+162,Jandira,,-23.530218,-46.8981019,8,,FALSE,trem,,,514,Jandira,19,Jandira,115,Jandira,680.44,99863,25389.96817,87021,17944.70726,388.7808921,1259.428
+163,Jardim Silveira,,-23.5287732,-46.8897916,8,,FALSE,trem,,,491,Jardim Silveira,2,Barueri,98,Barueri,312.03,61142,17359.58567,52368,4134.760544,273.2511946,598.1602026
+164,Jardim Belval,,-23.5123685,-46.8961244,8,,FALSE,trem,,,492,Jardim Belval,2,Barueri,98,Barueri,350.02,27996,13859.29903,39453,953.1494072,517.545053,659.9550197
+165,Barueri,,-23.5035038,-46.8785555,8,,FALSE,trem,,,486,Barueri,2,Barueri,98,Barueri,1469.12,125446,73273.38138,151846,34209.95114,1024.19875,695.5571469
+166,Antônio João,,-23.51700782,-46.85812882,8,,FALSE,trem,,,489,Antônio João,2,Barueri,98,Barueri,593.61,0,7701.616104,4621,3601.587684,245.7330636,1624.198656
+167,Santa Terezinha,,-23.51633389,-46.8480651,8,,FALSE,trem,,,494,Cidade Ariston,6,Carapicuíba,102,Carapicuíba,790.35,131437,28187.51144,73424,0,21.92136046,1959.225081
+168,Carapicuíba,,-23.5320775,-46.8322212,8,,FALSE,trem,,,495,Carapicuíba,6,Carapicuíba,102,Carapicuíba,776.67,99825,26492.56376,89564,0,408.2460086,351.8648091
+169,Gen. Miguel Costa,,-23.5235557,-46.8152962,8,,FALSE,trem,,,506,Quitaúna,24,Osasco,120,Osasco,552.51,82126,15476.9201,60257,12805.74788,15.64302519,1682.847778
+170,Quitaúna,,-23.5279275,-46.8143874,8,,FALSE,trem,,,506,Quitaúna,24,Osasco,120,Osasco,552.51,82126,15476.9201,60257,12805.74788,221.0139351,1207.214158
+171,Com. Sampaio,,-23.525708,-46.7957153,8,,FALSE,trem,,,502,Nova Granada,24,Osasco,120,Osasco,546.33,60974,37761.7218,93494,10939.67569,9.513424608,1976.449013
+172,Osasco,,-23.5318198,-46.7916315,8;9,,FALSE,trem,,,502,Nova Granada,24,Osasco,120,Osasco,546.33,60974,37761.7218,93494,10939.67569,172.0806241,1183.941711
+173,Estação Presidente Altino,,-23.5288268,-46.7684062,8;9,,FALSE,trem,,,508,Presidente Altino,24,Osasco,120,Osasco,247.56,16324,14505.51402,24972,6971.957438,369.806595,432.5000929
+174,Imperatriz Leopoldina,,-23.52355688,-46.73755177,8,,FALSE,trem,,,108,Emissário,36,São Paulo,90,Vila Leopoldina,190.52,5285,15937.6848,19121,841.4275293,23.34115237,253.8441418
+175,Domingo de Moraes,,-23.5191434,-46.7215832,8,,FALSE,trem,,,103,Gavião Peixoto,36,São Paulo,48,Lapa,68.96,2503,5264.939056,6501,59.21863488,35.36919282,538.0622013
+176,Júlio Prestes,,-23.5338496,-46.63983387,8,,FALSE,trem,,,7,Luz,36,São Paulo,9,Bom Retiro,154.6,14849,31034.4283,49493,4810.152289,15.44987478,601.6865379
+177,Estação Ceasa, Vila Leopoldina São Paulo  ,-23.5373938,-46.7426148,9,,FALSE,trem,,,106,CEASA,36,São Paulo,90,Vila Leopoldina,197.78,7004,26934.79082,23893,301.4585909,92.03354928,422.600339
+178,Estação Villa-Lobos Jaguaré, Vila Hamburguesa São Paulo  ,-23.5460318,-46.7327301,9,,FALSE,trem,,,97,Boaçava,36,São Paulo,2,Alto de Pinheiros,314.44,15490,10967.86918,21887,605.6463818,97.24411688,1236.619001
+179,Estação Cidade Universitária, Av. das Nações Unidas Pinheiros  ,-23.55709,-46.7114872,9,,FALSE,trem,,,96,Alto de Pinheiros,36,São Paulo,2,Alto de Pinheiros,253.17,6426,11830.41321,26607,2784.695545,122.9082177,560.7251064
+180,Estação Hebraica-Rebouças, R. Ofélia Pinheiros  ,-23.5730928,-46.6981184,9,,TRUE,desconhecido,,,82,Pinheiros,36,São Paulo,63,Pinheiros,202.58,12398,72610.1716,94646,5047.416788,138.5485741,674.3210521
+181,Estação Cidade Jardim, R. Prof. Artur Ramos Jardim Paulistano  ,-23.5853452,-46.6911446,9,,FALSE,trem,,,81,Jardim Europa,36,São Paulo,63,Pinheiros,308.02,11912,46646.54681,51962,2337.520598,62.86087419,1289.477051
+182,Estação Vila Olímpia, Marginal Pinheiros Pinheiros  ,-23.5936324,-46.6920311,9,,FALSE,trem,,,73,Berrini,36,São Paulo,34,Itaim Bibi,197.39,9870,153383.2536,128434,481.8192943,156.7409604,840.7712408
+183,Estação Berrini, Jardim Panorama São Paulo  ,-23.60495,-46.69615,9,,FALSE,trem,,,73,Berrini,36,São Paulo,34,Itaim Bibi,197.39,9870,153383.2536,128434,481.8192943,138.3769779,578.2528532
+184,Estação Morumbi, Avenida das Nações Unidas Vila Gertrudes  ,-23.6220006,-46.701115,9,,FALSE,monotrilho,,,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,145.4620236,1492.073089
+185,Estação Granja Julieta, Retiro Morumbi São Paulo  ,-23.6275297,-46.7119241,9,,FALSE,trem,,,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,72.42871221,937.2981971
+186,Estação João Dias,,-23.64030206,-46.72316583,9,,FALSE,trem,,,301,Granja Julieta,36,São Paulo,72,Santo Amaro,616.88,41686,120727.7051,153239,8.702083152,124.5762807,1803.728338
+187,Estação Socorro, Largo do Socorro Jardim São Luís  ,-23.6635297,-46.7108473,9,,FALSE,trem,,,304,Vila Miranda,36,São Paulo,72,Santo Amaro,271.15,14227,30053.03281,50406,22018.32405,47.46781488,1247.980478
+188,Estação Jurubatuba, Jurubatuba São Paulo  ,-23.6773149,-46.7021682,9,,FALSE,trem,,,280,Jurubatuba,36,São Paulo,16,Campo Grande,482.59,25563,22356.08372,50462,11376.57721,83.31709126,885.7634664
+189,Estação Autódromo, Interlagos São Paulo  ,-23.70628,-46.68842,9,,FALSE,trem,,,290,SESC Interlagos,36,São Paulo,23,Cidade Dutra,736.48,52880,16875.15607,58753,11487.0624,11.47923749,1550.259436
+190,Estação Primavera-Interlagos, Parque Alto do Rio Bonito São Paulo  ,-23.72267,-46.69179,9,,FALSE,trem,,,290,SESC Interlagos,36,São Paulo,23,Cidade Dutra,736.48,52880,16875.15607,58753,11487.0624,3.062418606,1312.895422
+191,Estação Grajaú, Parque Alto do Rio Bonito São Paulo,-23.7365015,-46.6970085,9,,FALSE,trem,,,293,Grajaú,36,São Paulo,30,Grajaú,540.7,76903,20754.56207,50254,13551.57179,6.257892835,1055.919343
+192,Estação Bruno Covas-Mendes/Vila Natal,,-23.75463216,-46.70941854,9,,FALSE,trem,,,292,Vila Natal,36,São Paulo,30,Grajaú,415.09,65079,15467.39926,49767,18184.82103,3.003310106,1020.266447
+193,Estação Ferroviária de Varginha,,-23.76965426,-46.71210308,9,,FALSE,trem,,,298,Parelheiros,36,São Paulo,56,Parelheiros,11667.08,151193,59254.26076,135797,41695.39091,13.6584293,8522.717526
+194,Estação Engenheiro Goulart,"Av. Dr. Assis Ribeiro, 34700",-23.4980836,-46.5197635,12;13,,FALSE,trem,,,175,Estação Eng. Goulart,36,São Paulo,18,Cangaíba,193.33,36662,10501.8931,19433,1300.466091,17.12180687,758.9677753
+195,Estação USP Leste,"Rua Dr. Assis Ribeiro, 6.081 – Ermelino Matarazzo",-23.4855392,-46.5012798,12,,FALSE,trem,,,180,Ermelino Matarazzo,36,São Paulo,28,Ermelino Matarazzo,448.82,68529,10699.43592,58361,13794.64973,20.69071244,1206.033639
+196,Estação Comendador Ermelino,"Rua Dr. Assis Ribeiro, S/N – Ermelino Matarazzo",-23.4851096,-46.4823367,12,,FALSE,trem,,,180,Ermelino Matarazzo,36,São Paulo,28,Ermelino Matarazzo,448.82,68529,10699.43592,58361,13794.64973,340.7455427,1034.441497
+197,Estação São Miguel Paulista,"Rua Beraldo Marcondes, 136 – São Miguel Paulista",-23.4905676,-46.443702,12,,FALSE,trem,,,198,Cidade Nitro-Operária,36,São Paulo,76,São Miguel,357.92,26029,25161.75739,65113,7116.549649,153.8354384,904.5369234
+198,Estação Jardim Helena-Vila Mara,"Rua São Gonçalo do Rio das Pedras, 1.200 / Rua São Gonçalo do Rio das Pedras, 1.140 – Vila Mara",-23.4927218,-46.4210883,12,,FALSE,trem,,,201,Vila Curuçá,36,São Paulo,86,Vila Curuçá,503.17,69129,11985.15212,46358,19496.15153,13.31443389,1177.793529
+199,Estação Itaim Paulista,"Rua Rafael Correa da Silva, 13 (Jardim Aimoré)/ Rua Cordão de São Francisco, s/nº (Vila Aimoré)",-23.4939713,-46.402074,12,,FALSE,trem,,,206,Itaim Paulista,36,São Paulo,35,Itaim Paulista,302.19,39442,18573.25764,50834,8992.620045,10.2827494,1097.838128
+200,Estação Jardim Romano,"Rua José Alvares Moreira, 349 – Jardim Romano",-23.4849241,-46.3855852,12,,FALSE,trem,,,207,Jardim das Oliveiras,36,São Paulo,35,Itaim Paulista,460.11,73445,17478.94415,69441,24582.37293,6.90224386,1161.058883
+201,Estação Eng. Manoel Feio,"Av. Eldorado, s/nº- Vila Gepina – Itaquaquecetuba",-23.4793072,-46.3672825,12,,FALSE,trem,,,400,Quinta da Boa Vista,18,Itaquaquecetuba,114,Itaquaquecetuba,1419.81,66599,26780.72438,88712,4048.400791,750.2376846,2274.060542
+202,Estação Itaquaquecetuba,"Avenida Presidente Tancredo Neves, 746 (Estação)/ Rua Antonio da Silva Costa, s/nº (Jardim Gonçalves) – Itaquaquecetuba",-23.4863369,-46.3464635,12,,FALSE,trem,,,399,Itaquaquecetuba,18,Itaquaquecetuba,114,Itaquaquecetuba,1132.92,102397,34551.4867,77013,20790.2828,849.0940823,888.7384958
+203,Estação Aracaré,"Rua Rio de Janeiro, s/nº (Vila Miranda) / Rua Aracaré, s/nº (Jardim Roseli) – Itaquaquecetuba",-23.4998687,-46.3390746,12,,FALSE,trem,,,399,Itaquaquecetuba,18,Itaquaquecetuba,114,Itaquaquecetuba,1132.92,102397,34551.4867,77013,20790.2828,305.368596,1329.337736
+204,Estação Calmon Viana,"Avenida Brasil, 1041 – Calmon Viana – Poá",-23.5254075,-46.3332552,12;11,,FALSE,trem,,,398,Poá,26,Poá,122,Poá,1322.41,83968,39832.54282,104534,0,368.8509112,1358.943475
+205,Estação Guarulhos Cecap,,-23.44671267,-46.49382751,13,,FALSE,trem,,,375,Aeroporto,15,Guarulhos,111,Guarulhos,1324.93,0,29670.30748,35415,18020.08527,74.95591787,2543.168362
+206,Estação Aeroporto-Guarulhos,,-23.43163239,-46.49193923,13,,FALSE,trem,,,375,Aeroporto,15,Guarulhos,111,Guarulhos,1324.93,0,29670.30748,35415,18020.08527,203.6974256,1861.58304
+207,Estação Jardim Marilu,,-23.602112,-46.422016,15,,TRUE,monotrilho,,,116,Parada de Taipas,36,São Paulo,41,Jaraguá,1553.24,164908,35168.8974,148018,39270.29049,713.6583668,774.4360931
+208,Estação Jardim Pedra Branca,,-23.579967,-46.417683,15,,TRUE,monotrilho,,,225,Gleba do Pêssego,36,São Paulo,46,José Bonifácio,1028.47,47022,19284.49245,42225,7116.125339,191.2162884,1527.368307
+209,Estação Cidade Tiradentes,,-23.58322944,-46.40814386,15,,TRUE,monotrilho,,,229,Cidade Tiradentes,36,São Paulo,25,Cidade Tiradentes,953.59,134180,23557.28078,110287,38073.41328,699.099776,703.9896822
+210,Estação Hospital Cidade Tiradentes,,-23.601011,-46.39855,15,,TRUE,monotrilho,,,230,Santa Etelvina,36,São Paulo,25,Cidade Tiradentes,541.3,64822,16621.86155,50594,17579.00057,332.2100132,633.5818361
+211,Estação Comendador Sant'Anna,,-23.67117799,-46.77260354,5,,TRUE,metrô,,,314,Jardim Sônia Ingá,36,São Paulo,19,Capão Redondo,105.38,21032,5807.785799,25492,20580.47905,33.09903586,487.5295791
+212,Estação Jardim Ângela,,-23.69065075,-46.77507162,5,,TRUE,metrô,,,311,Morro do Índio,36,São Paulo,42,Jardim Ângela,114.64,25981,6765.23167,12299,11341.55638,34.29783237,711.4005214
+213,Bosque Maia,,-23.45612394,-46.53031334,,,,,,,,,,,,,,,,,,,
+214,Guarulhos Centro,,-23.46308901,-46.51805766,,,,,,,,,,,,,,,,,,,
+215,Vila Augusta,,-23.476417,-46.53452,,,,,,,,,,,,,,,,,,,
+216,Dutra,,-23.49055,-46.549092,,,,,,,,,,,,,,,,,,,
+217,Itapegica,,-23.476716,-46.551516,,,,,,,,,,,,,,,,,,,
+218,Jardim Julieta,,-23.491263,-46.569258,,,,,,,,,,,,,,,,,,,
+219,Vila Sabrina,,-23.487167,-46.560536,,,,,,,,,,,,,,,,,,,
+220,Cerejeiras,,-23.501948,-46.575314,,,,,,,,,,,,,,,,,,,
+221,Santo Eduardo,,-23.515537,-46.587241,,,,,,,,,,,,,,,,,,,
+222,Vila Maria,,-23.523299,-46.593783,,,,,,,,,,,,,,,,,,,
+223,Catumbi,,-23.530112,-46.603075,,,,,,,,,,,,,,,,,,,
+224,Silva Teles,,-23.53321,-46.612077,,,,,,,,,,,,,,,,,,,
+229,Santa Marina,,-23.514667,-46.690528,,,,,,,,,,,,,,,,,,,
+231,Vila Romana,,-23.52825,-46.702417,,,,,,,,,,,,,,,,,,,
+232,Cerro Corá,,-23.540972,-46.700028,,,,,,,,,,,,,,,,,,,
+233,Girassol,,-23.55633136,-46.69123195,,,,,,,,,,,,,,,,,,,
+234,Teodoro Sampaio,,-23.56296395,-46.68656682,,,,,,,,,,,,,,,,,,,
+235,Tabapuã,,-23.582417,-46.673444,,,,,,,,,,,,,,,,,,,
+236,Jesuíno Cardoso,,-23.59119895,-46.67680042,,,,,,,,,,,,,,,,,,,
+237,Hélio Peregrino,,-23.598528,-46.671778,,,,,,,,,,,,,,,,,,,
+238,Rubem Berta,,-23.6125,-46.657278,,,,,,,,,,,,,,,,,,,
+239,Indianópolis,,-23.616333,-46.654194,,,,,,,,,,,,,,,,,,,
+240,Abraão de Morais,,-23.623861,-46.628333,,,,,,,,,,,,,,,,,,,
+241,Cursino,,-23.629667,-46.6185,,,,,,,,,,,,,,,,,,,
+242,Arlindo Vieira,,-23.636944,-46.606861,,,,,,,,,,,,,,,,,,,
+243,Liviero,,-23.653222,-46.600306,,,,,,,,,,,,,,,,,,,
+244,Taboão Pauliceia,,-23.66667,-46.58577,,,,,,,,,,,,,,,,,,,
+245,Rudge Ramos,,-23.667917,-46.553694,,,,,,,,,,,,,,,,,,,
+246,Afonsina,,-23.664194,-46.531222,,,,,,,,,,,,,,,,,,,
+247,Príncipe de Gales,,-23.67825,-46.514028,,,,,,,,,,,,,,,,,,,
+248,Portugal,,-23.693194,-46.488472,,,,,,,,,,,,,,,,,,,
+249,Santo André,,-23.691136,-46.4522,,,,,,,,,,,,,,,,,,,
+251,Cotia,,-23.605306,-46.926528,,,,,,,,,,,,,,,,,,,
+252,San Antonio,,-23.59443049,-46.84168511,,,,,,,,,,,,,,,,,,,
+253,Sabia ,,-23.600806,-46.900361,,,,,,,,,,,,,,,,,,,
+254,Parque Alexandra ,,-23.597139,-46.87225,,,,,,,,,,,,,,,,,,,
+255,Estrada do Embu ,,-23.608278,-46.851444,,,,,,,,,,,,,,,,,,,
+256,Mesopotamia,,-23.607083,-46.846889,,,,,,,,,,,,,,,,,,,
+257,Granja Viana,,-23.589083,-46.830694,,,,,,,,,,,,,,,,,,,
+258,Santa Maria,,-23.56296395,-46.68656682,,,,,,,,,,,,,,,,,,,
+259,Victor Civita,,-23.583917,-46.804361,,,,,,,,,,,,,,,,,,,
+260,Jardim Boa Vista,,-23.582361,-46.790083,,,,,,,,,,,,,,,,,,,
+261,Jardim Ester,,-23.583889,-46.761056,,,,,,,,,,,,,,,,,,,
+262,Jardim Esmeralda,,-23.575417,-46.756861,,,,,,,,,,,,,,,,,,,
+263,Rio Pequeno,,-23.565667,-46.755194,,,,,,,,,,,,,,,,,,,
+264,Universidade de Sao Paolo,,-23.56121223,-46.73073546,,,,,,,,,,,,,,,,,,,
+265,Vital Brasil,,-23.57035114,-46.71053846,,,,,,,,,,,,,,,,,,,
+268,Teodoro Sampaio,,-23.560806,-46.682972,,,,,,,,,,,,,,,,,,,
+271,Bonsucesso,,-23.44827688,-46.49251903,,,,,,,,,,,,,,,,,,,
+274,Hospital Jardim Helena,,-23.478778,-46.424139,,,,,,,,,,,,,,,,,,,
+275,Sao Miguel Paulista,,-23.49026431,-46.44357344,,,,,,,,,,,,,,,,,,,
+276,Vila Jacui,,-23.500528,-46.454528,,,,,,,,,,,,,,,,,,,
+277,Imperador,,-23.515528,-46.463306,,,,,,,,,,,,,,,,,,,
+278,Cidade A E Carvalho,,-23.538722,-46.474083,,,,,,,,,,,,,,,,,,,
+279,Corinthians,,-23.53708881,-46.46859815,,,,,,,,,,,,,,,,,,,
+280,Hospital Santa Marcelina,,-23.555667,-46.461333,,,,,,,,,,,,,,,,,,,
+281,Parque do Carmo,,-23.570528,-46.477444,,,,,,,,,,,,,,,,,,,
+282,Rio das Pedras / Aricanduva,,-23.571083,-46.505333,,,,,,,,,,,,,,,,,,,
+283,Jardim Itapolis,,-23.595639,-46.497389,,,,,,,,,,,,,,,,,,,
+284,Sapopemba,,-23.60958786,-46.49610036,,,,,,,,,,,,,,,,,,,
+285,Parque Oratorio / Nevada,,-23.627222,-46.506556,,,,,,,,,,,,,,,,,,,
+286,Hospital da Mulher / Cidade dos meninos,,-23.634972,-46.500833,,,,,,,,,,,,,,,,,,,
+287,Jardim Sorocaba I ,,-23.43665063,-47.46768135,,,,,,,,,,,,,,,,,,,
+288,ABC ,,-23.61577366,-46.60777507,,,,,,,,,,,,,,,,,,,
+289,Miguel Couto,,-23.676917,-46.506222,,,,,,,,,,,,,,,,,,,
+290,Macedo Soares,,-23.691972,-46.506722,,,,,,,,,,,,,,,,,,,
+291,Vila Luzita,,-23.703056,-46.505111,,,,,,,,,,,,,,,,,,,
+292,Jardim Irene,,-23.708639,-46.508194,,,,,,,,,,,,,,,,,,,
+295,Sao Bernardo de Campo,,-23.703694,-46.555917,,,,,,,,,,,,,,,,,,,
+296,Alvaro de Guimaraes,,-23.714833,-46.56225,,,,,,,,,,,,,,,,,,,
+297,Indepencia,,-23.703333,-46.579944,,,,,,,,,,,,,,,,,,,
+298,Casa Grande,,-23.704694,-46.591389,,,,,,,,,,,,,,,,,,,
+299,Vila Coneciao,,-23.695333,-46.618361,,,,,,,,,,,,,,,,,,,
+300,APAE Diadema,,-23.698,-46.625694,,,,,,,,,,,,,,,,,,,
+301,Jardim Miriam,,-23.681,-46.636861,,,,,,,,,,,,,,,,,,,
+302,Cidade Ademar,,-23.670889,-46.657472,,,,,,,,,,,,,,,,,,,
+303,Vila Joaniza,,-23.675389,-46.656861,,,,,,,,,,,,,,,,,,,
+304,Yervant,,-23.666083,-46.67675,,,,,,,,,,,,,,,,,,,
+305,Sabara,,-23.660361,-46.696,,,,,,,,,,,,,,,,,,,
+307,Atlantica,,-23.706139,-46.713528,,,,,,,,,,,,,,,,,,,
+308,Guido Caloi,,-23.656333,-46.723778,,,,,,,,,,,,,,,,,,,
+309,Jardim Sao Luiz,,-23.660972,-46.747361,,,,,,,,,,,,,,,,,,,
+311,Parque Munhoz,,-23.648917,-46.769139,,,,,,,,,,,,,,,,,,,
+312,Jardim Vitoria,,-23.655389,-46.797889,,,,,,,,,,,,,,,,,,,
+313,Jardim Sao Marcos,,-23.6585,-46.812333,,,,,,,,,,,,,,,,,,,
+314,Pataxos,,-23.663278,-46.840111,,,,,"65,316,317, 68,318,319,320,321,322,323,324,325, 8, 326,327,328,329,330,331,332,333,334",,,,,,,,,,,,,,
+315,Embu das Artes,,-23.655278,-46.8525,,,,,,,,,,,,,,,,,,,
+316,Nove de Julho,,-23.56715569,-46.65914175,,,,,,,,,,,,,,,,,,,
+317,Jardim Paulistano,,-23.57577317,-46.65642143,,,,,,,,,,,,,,,,,,,
+318,aclimacao,,-23.57084643,-46.63091331,,,,,,,,,,,,,,,,,,,
+319,lins de vasconselhos,,-23.56318184,-46.62907485,,,,,,,,,,,,,,,,,,,
+320,independencia ,,-23.5629644,-46.61792546,,,,,,,,,,,,,,,,,,,
+321,sao carlos ,,-23.56536759,-46.61025595,,,,,,,,,,,,,,,,,,,
+322,pae de barros ,,-23.56482435,-46.59392375,,,,,,,,,,,,,,,,,,,
+323,vila bertioga ,,-23.56077616,-46.58207833,,,,,,,,,,,,,,,,,,,
+324,alvares ramos ,,-23.54886829,-46.58096941,,,,,,,,,,,,,,,,,,,
+325,rgente feijo,,-23.55199058,-46.56782075,,,,,,,,,,,,,,,,,,,
+326,abel ferreira ,,-23.56078619,-46.54928058,,,,,,,,,,,,,,,,,,,
+327,renara,,-23.55967568,-46.54322305,,,,,,,,,,,,,,,,,,,
+328,vila antoniera ,,-23.57112862,-46.51445956,,,,,,,,,,,,,,,,,,,
+329,rio das pedras / Aricanduva,,-23.56557731,-46.50706685,,,,,,,,,,,,,,,,,,,
+330,jardim brasilia,,-23.55898052,-46.49340756,,,,,,,,,,,,,,,,,,,
+331,santa rmarcelina,,-23.55615336,-46.46333989,,,,,,,,,,,,,,,,,,,
+332,colonia,,-23.54747714,-46.44430179,,,,,,,,,,,,,,,,,,,
+333,fazenda do carmo ,,-23.56644678,-46.42117714,,,,,,,,,,,,,,,,,,,
+334,cidade tiradentes,,-23.58621677,-46.39176215,,,,,,,,,,,,,,,,,,,
+335,,,,,,,,,,,,,,,,,,,,,,,
+336,,,,,,,,,,,,,,,,,,,,,,,
+337,,,,,,,,,,,,,,,,,,,,,,,
+338,,,,,,,,,,,,,,,,,,,,,,,

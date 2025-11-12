@@ -1,0 +1,13 @@
+Line,Total Stations,Segments Analyzed,Min Distance (km),Max Distance (km),Avg Distance (km),Std Dev (km),Min Pair,Max Pair
+Linha 1 - Azul,23,22,0.584,1.378,0.903,0.222,Estação Sé - Estação Japão-L,Estação Jardim  - Estação Santana
+Linha 2 - Verde,14,13,0.746,1.877,1.12,0.301,Estação Paraíso - Estação Ana Ros,Terminal Interm - Estação Tamandu
+Linha 3 - Vermelha,18,17,0.568,2.489,1.267,0.5,Estação Repúbli - Estação Anhanga,Estação Carrão - Estação Penha (
+Linha 4 - Amarela,11,10,0.752,2.276,1.242,0.427,Terminal Interm - Estação Butantã,Estação Butantã - Estação São Pau
+Linha 5 - Lilás,17,16,0.116,1.974,1.173,0.448,Estação Alto da - Estação Borba G,Estação Borba G - Estação Brookli
+Linha 8 - Diamante,22,21,0.495,3.921,2.013,0.857,Gen. Miguel Cos - Quitaúna,Amador Bueno - Santa Rita
+Linha 9 - Esmeralda,20,19,0.926,3.512,1.911,0.598,Estação Cidade  - Estação Vila Ol,Estação Jurubat - Estação Autódro
+Linha 10 - Turquesa,14,13,0.613,8.283,2.781,1.864,Estação Pref. C - Estação Capuava,Estação Capuava - Estação Mauá
+Linha 11 - Coral,16,15,1.047,10.721,3.288,2.239,Estação Poá - Estação Calmon ,Estação Tatuapé - Terminal Interm
+Linha 12 - Safira,13,12,1.683,7.439,2.905,1.565,Estação Itaquaq - Estação Aracaré,Estação Tatuapé - Estação Engenhe
+Linha 13 - Jade,3,2,1.688,6.295,3.991,2.304,Estação Guarulh - Estação Aeropor,Estação Engenhe - Estação Guarulh
+Linha 15 - Prata,11,10,0.899,2.092,1.367,0.37,Estação Vila Un - Estação Jardim ,Terminal Interm - Estação Oratóri
